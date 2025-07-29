@@ -20,13 +20,12 @@
 
 ## What I Do
 
-- **Full-stack Web Development** – TypeScript, C#, SQL, Next.js, Tailwind CSS, MongoDB, Angular.
+- **Full-stack Web Development** – TypeScript, C#, SQL, Nodejs, Express, Next.js, Tailwind CSS, MongoDB, Python.
 - **Freelance Consulting** – Websites, dashboards, contact forms, deployment, DNS, and hosting setup.
 - **Academic & Research Work** – 
-  - Data Science Lecturer
-  - Research in Business Intelligence & Predictive Analytics.
+  - R and Python Lecturing
 - **Lifelong Learning** – Web 3.0, Blockchain, Senior Dev Practices, DevOps, and CI/CD automation.
-- **Dev Tutoring** – Private, online-focused, private coding lessons.
+- **Dev Tutoring** – Private, online-focused, coding lessons for all age beginners.
 
 ---
 
@@ -68,8 +67,6 @@ Contact:
 
 - Web3 + DAG data structures  
 - Deploying production-grade VPS apps  
-- Structuring academic projects into live demos  
-- Building a full digital services suite  
 
 ---
 
