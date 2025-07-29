@@ -59,7 +59,7 @@
 
 Contact:  
 - WhatsApp: `+263 776 092 688` | `+27 84 731 6783` 
-- Email: `mahlangu@featnode.tech` | `omotolamahlangu@gmail.com` 
+- Email: `omotola@featnode.tech` | `omotolamahlangu@gmail.com` 
 - Portfolio: under reconstruction
 
 ---
