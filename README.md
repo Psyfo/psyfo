@@ -22,8 +22,8 @@
 
 - **Full-stack Web Development** – TypeScript, C#, SQL, Nodejs, Express, Next.js, Tailwind CSS, MongoDB, Python.
 - **Freelance Consulting** – Websites, dashboards, contact forms, deployment, DNS, and hosting setup.
-- **Academic & Research Work** – 
-  - R and Python Lecturing
+- **Academic** – 
+  - R and Python Teaching
 - **Lifelong Learning** – Web 3.0, Blockchain, Senior Dev Practices, DevOps, and CI/CD automation.
 - **Dev Tutoring** – Private, online-focused, coding lessons for all age beginners.
 
