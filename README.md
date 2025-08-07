@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Sipho Omotola Mahlangu — aka Psyfo 👋</h1>
 <p align="center">
-  Full-Stack Developer | Freelance Consultant | Educator
+  Software Developer | Technical Trainer | Solutions Advisor  
 </p>
 
 <p align="center">
@@ -11,8 +11,16 @@
   <a href="https://github.com/Psyfo" target="_blank">
     <img src="https://img.shields.io/github/followers/psyfo?label=GitHub&style=social" />
   </a>
-  <a href="mailto:omotolamahlangu@gmail.com">
+   <a href="mailto:omotolamahlangu@gmail.com">
     <img src="https://img.shields.io/badge/Email-me-red?logo=gmail" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://mahlangu.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-mahlangu.dev-blueviolet?logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://gravatar.com/siphoomotolamahlangu.link" target="_blank">
+    <img src="https://img.shields.io/badge/Gravatar-Profile-ff69b4?logo=gravatar&logoColor=white" />
   </a>
 </p>
 
@@ -21,12 +29,10 @@
 ## What I Do
 
 - **Full-stack Web Development** – TypeScript, C#, SQL, Nodejs, Express, Next.js, Tailwind CSS, MongoDB, Python.
-- **Freelance Consulting** – Websites, dashboards, contact forms, deployment, DNS, and hosting setup.
-- **Academic** – 
-  - R and Python Teaching
+- **Freelance Consulting** – Websites, cusotm MVPs, deployment, and hosting setup.
+- **1-on-1 Dev Tutoring** – Personalized lessons in Python, JavaScript, TypeScript, and more — tailored to beginners or career switchers.
 - **Lifelong Learning** – Web 3.0, Blockchain, Senior Dev Practices, DevOps, and CI/CD automation.
-- **Dev Tutoring** – Private, online-focused, coding lessons for all age beginners.
-
+  
 ---
 
 ## Tech Stack
@@ -59,7 +65,8 @@
 Contact:  
 - WhatsApp: `+263 776 092 688` | `+27 84 731 6783` 
 - Email: `omotola@featnode.tech` | `omotolamahlangu@gmail.com` 
-- Portfolio: under reconstruction
+- Website: [mahlangu.dev](https://mahlangu.dev)
+- Gravatar: [siphoomotolmahlangu.link](https://siphoomotolamahlangu.link)
 
 ---
 
