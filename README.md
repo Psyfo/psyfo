@@ -31,7 +31,7 @@
 ## What I Do
 
 - **Full-stack Web Development** – TypeScript, C#, SQL, Nodejs, Express, Next.js, Tailwind CSS, MongoDB, Python.
-- **Freelance Consulting** – Websites, cusotm MVPs, deployment, and hosting setup.
+- **Freelance Consulting** – Websites, custom MVPs, deployment, and hosting setup.
 - **1-on-1 Dev Tutoring** – Personalized lessons in Python, JavaScript, TypeScript, and more — tailored to beginners or career switchers.
 - **Lifelong Learning** – Web 3.0, Blockchain, Senior Dev Practices, DevOps, and CI/CD automation.
   
