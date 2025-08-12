@@ -1,4 +1,5 @@
 <!-- Profile Header -->
+<!-- markdownlint-disable MD033 -->
 <h1 align="center">Hi, I'm Sipho Omotola Mahlangu — aka Psyfo 👋</h1>
 <p align="center">
   Software Developer | Technical Trainer | Solutions Advisor  
@@ -9,20 +10,21 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Psyfo" target="_blank">
-    <img src="https://img.shields.io/github/followers/psyfo?label=GitHub&style=social" />
+    <img src="https://img.shields.io/github/followers/psyfo?label=GitHub&style=social" alt="" />
   </a>
    <a href="mailto:omotolamahlangu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-me-red?logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-me-red?logo=gmail" alt="" />
   </a>
 </p>
 <p align="center">
   <a href="https://mahlangu.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-mahlangu.dev-blueviolet?logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-mahlangu.dev-blueviolet?logo=google-chrome&logoColor=white" alt="" />
   </a>
   <a href="https://gravatar.com/siphoomotolamahlangu.link" target="_blank">
-    <img src="https://img.shields.io/badge/Gravatar-Profile-ff69b4?logo=gravatar&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gravatar-Profile-ff69b4?logo=gravatar&logoColor=white" alt="" />
   </a>
 </p>
+<!-- markdownlint-disable MD033 -->
 
 ---
 
@@ -42,6 +44,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38b2ac?logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer--Motion-black?logo=framer&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 
 **Backend & DevOps**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
@@ -52,19 +55,21 @@
 ---
 
 ## GitHub Stats
-
+<!-- markdownlint-disable MD033 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psyfo&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psyfo&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=psyfo&show_icons=true&theme=radical" height="170" alt="Psyfo's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psyfo&layout=compact&theme=radical" height="170" alt="Most used languages" />
 </p>
+<!-- markdownlint-disable MD033 -->
 
 ---
 
 ## Let’s Collaborate
 
-Contact:  
-- WhatsApp: `+263 776 092 688` | `+27 84 731 6783` 
-- Email: `omotola@featnode.tech` | `omotolamahlangu@gmail.com` 
+Contact:
+
+- WhatsApp: `+263 776 092 688` | `+27 84 731 6783`
+- Email: `omotola@featnode.tech` | `omotolamahlangu@gmail.com`
 - Website: [mahlangu.dev](https://mahlangu.dev)
 - Gravatar: [siphoomotolmahlangu.link](https://siphoomotolamahlangu.link)
 
@@ -78,4 +83,3 @@ Contact:
 ---
 
 > 🧠 _“A good developer solves problems. A great one solves tomorrow's.”_
-
