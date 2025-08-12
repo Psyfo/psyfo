@@ -48,9 +48,13 @@
 
 **Backend & DevOps**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?logo=mongodb&logoColor=white)
 ![PM2](https://img.shields.io/badge/-PM2-2b2b2b?logo=pm2&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Debian 12](https://img.shields.io/badge/-Debian%2012-A81D33?logo=debian&logoColor=white)
 
 ---
 
