@@ -61,8 +61,10 @@
 ## GitHub Stats
 <!-- markdownlint-disable MD033 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psyfo&show_icons=true&theme=radical" height="170" alt="Psyfo's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psyfo&layout=compact&theme=radical" height="170" alt="Most used languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=psyfo&show_icons=true&theme=radical" height="170" alt="Psyfo's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psyfo&layout=compact&theme=radical" height="170" alt="Most used languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=psyfo&theme=radical" height="170" alt="GitHub Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psyfo&theme=radical" height="170" alt="Profile Details" />
 </p>
 <!-- markdownlint-disable MD033 -->
 
