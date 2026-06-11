@@ -26,7 +26,7 @@
 
 ## About
 
-Senior full stack engineer with 10+ years designing and operating high-throughput, distributed systems in cloud-native environments. I specialise in event-driven architectures, real-time data platforms, and scalable backend systems. Currently focused on AI-enabled applications and agentic systems — combining large language models, knowledge-driven workflows, and solid backend platforms.
+Senior full stack engineer with 10+ years designing and operating high-throughput, distributed systems in cloud-native environments. I specialise in event-driven architectures, real-time data platforms, and scalable backend systems. Currently focused on AI-enabled applications and agentic systems, combining large language models, knowledge-driven workflows, and solid backend platforms.
 
 ---
 
@@ -78,9 +78,9 @@ Senior full stack engineer with 10+ years designing and operating high-throughpu
 
 ## Areas of Interest
 
-- **AI Engineering & Agentic Systems:** building AI-native software — agentic workflows, retrieval and knowledge graphs, and LLMs wired into real backend systems, with explainability and human oversight designed in.
+- **AI Engineering & Agentic Systems:** building AI-native software, agentic workflows, retrieval and knowledge graphs, and LLMs wired into real backend systems, with explainability and human oversight designed in.
 - **Distributed Systems & Real-Time Data:** event-driven architectures, streaming pipelines, and the operational discipline that keeps high-throughput systems reliable at scale.
-- **Personal curiosities:** Web3 and decentralised infrastructure, applied statistics, and local-first AI — explored off the clock.
+- **Personal curiosities:** Web3 and decentralised infrastructure, applied statistics, and local-first AI, explored off the clock.
 
 ---
 
