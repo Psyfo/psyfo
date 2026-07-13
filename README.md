@@ -122,9 +122,34 @@ The Digital Ancestor: the customs of a continent, recorded for a generation rais
 
 ## GitHub Stats
 
+<!--
+  github-readme-stats.vercel.app is swapped out because the public instance is paused
+  (503 DEPLOYMENT_PAUSED as of 2026-07-13). If it comes back, or a self-hosted instance
+  with a PAT is deployed (the only way to count private-repo stats fully), the old cards were:
+  https://github-readme-stats.vercel.app/api?username=psyfo&show_icons=true&theme=tokyonight&hide_border=true
+  https://github-readme-stats.vercel.app/api/top-langs/?username=psyfo&layout=compact&theme=tokyonight&hide_border=true
+-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psyfo&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Psyfo's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psyfo&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Psyfo&theme=tokyonight" width="840" alt="Profile details and contribution timeline" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Psyfo&theme=tokyonight" height="192" alt="Stars, commits, PRs, issues, contributed to" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Psyfo&theme=tokyonight&utcOffset=2" height="192" alt="Commit time-of-day radar" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Psyfo&theme=tokyonight" height="192" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Psyfo&theme=tokyonight" height="192" alt="Most committed language" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Psyfo&theme=tokyonight&hide_border=true" height="192" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Psyfo&theme=tokyo-night&hide_border=true&area=true" width="840" alt="Contribution activity graph" />
 </p>
 
 ---
