@@ -28,10 +28,10 @@
 
 Senior full stack engineer with 10+ years designing and operating high-throughput, distributed systems in cloud-native environments. I specialise in event-driven architectures, real-time data platforms, and scalable backend systems. Currently focused on AI-enabled applications and agentic systems, combining large language models, knowledge-driven workflows, and solid backend platforms.
 
-**Client builds** (private repos, live sites): [carinapereira.com](https://carinapereira.com) · [lukhanyomdingi.co.za](https://lukhanyomdingi.co.za) · [miraclefertility.de](https://miraclefertility.de)
+**Client builds** (private repos, live sites): [carinapereira.com](https://carinapereira.com) · [lukhanyomdingi.co.za](https://lukhanyomdingi.co.za) · [miraclefertility.de](https://miraclefertility.de) · [watchdogmedia.co.za](https://watchdogmedia.co.za)
 
 <p align="center">
-  <img src="assets/client-sites.png" alt="Client builds: carinapereira.com (beauty academy), lukhanyomdingi.co.za (fashion e-commerce), miraclefertility.de (healthcare)" width="840" />
+  <img src="assets/client-sites.png" alt="Client builds: carinapereira.com (beauty academy), lukhanyomdingi.co.za (fashion e-commerce), miraclefertility.de (healthcare), watchdogmedia.co.za (film production)" width="840" />
 </p>
 
 ---
