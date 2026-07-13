@@ -28,6 +28,12 @@
 
 Senior full stack engineer with 10+ years designing and operating high-throughput, distributed systems in cloud-native environments. I specialise in event-driven architectures, real-time data platforms, and scalable backend systems. Currently focused on AI-enabled applications and agentic systems, combining large language models, knowledge-driven workflows, and solid backend platforms.
 
+**Client builds** (private repos, live sites): [carinapereira.com](https://carinapereira.com) · [lukhanyomdingi.co.za](https://lukhanyomdingi.co.za) · [miraclefertility.de](https://miraclefertility.de)
+
+<p align="center">
+  <img src="assets/client-sites.png" alt="Client builds: carinapereira.com (beauty academy), lukhanyomdingi.co.za (fashion e-commerce), miraclefertility.de (healthcare)" width="840" />
+</p>
+
 ---
 
 ## Skills
@@ -81,6 +87,36 @@ Senior full stack engineer with 10+ years designing and operating high-throughpu
 - **AI Engineering & Agentic Systems:** building AI-native software, agentic workflows, retrieval and knowledge graphs, and LLMs wired into real backend systems, with explainability and human oversight designed in.
 - **Distributed Systems & Real-Time Data:** event-driven architectures, streaming pipelines, and the operational discipline that keeps high-throughput systems reliable at scale.
 - **Personal curiosities:** Web3 and decentralised infrastructure, applied statistics, and local-first AI, explored off the clock.
+
+---
+
+## Projects
+
+### BYO Pulse · [byopulse.com](https://byopulse.com)
+
+<a href="https://byopulse.com" target="_blank">
+  <img src="assets/byopulse-showcase.png" alt="BYO Pulse on desktop, tablet, and mobile" />
+</a>
+
+Bulawayo's civic utility: your city, at a glance. It aggregates official city information so a resident can answer *Where do I go? Who do I call? How do I do this? What's happening nearby?* fast, on any phone, without an account: a directory of 800+ mapped places, City of Bulawayo notices, events, quick how-tos, and per-suburb pages.
+
+- **How the agent behaves.** *Ask Byo* is grounded Q&A over the site's own corpus, and nothing else. Context is assembled exclusively from sourced site data, outside knowledge is forbidden by design, and when the answer is not in context the agent refuses and routes back to search instead of guessing. Answers are plain text (an output gate strips URLs); sources render as tap-through chips from the retrieval set. Each distinct question costs at most one LLM call ever (cached), spend sits under a global daily budget, the agent only fires on an explicit click, and every failure mode degrades to plain search results.
+- **How information is curated.** Provenance is the product: every surface shows its source and a checked date, and a miss beats a mismatch. Daily scheduled scrapers (City of Bulawayo, OpenStreetMap, AllEvents) open refresh PRs rather than writing to production. An LLM enrichment lane must pass a machine gate plus golden-case evals in CI before anything lands, and community submissions render only after a human moderator approves them.
+
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Neon Postgres + Drizzle` · `Groq LLM lanes` · `Vercel` &nbsp;·&nbsp; *source private, product public*
+
+### uVelaphi · [uvelaphi.com](https://uvelaphi.com)
+
+<a href="https://uvelaphi.com" target="_blank">
+  <img src="assets/uvelaphi-showcase.png" alt="uVelaphi on desktop, tablet, and mobile" />
+</a>
+
+The Digital Ancestor: the customs of a continent, recorded for a generation raised between worlds. 1,100+ entries across customs, names, dishes, and garments answer what to do, when, with whom, and above all *why*, with a guided path that narrows a continent of customs down to your moment and a Name Decoder for what any African name carries.
+
+- **How the agent behaves.** A research pipeline drafts entries, and every machine draft is labeled *AI-aggregated*; it never masquerades as verified knowledge. *Ask the Elder*, the conversational surface, ships as a clearly labeled preview that speaks from a model rather than the verified corpus, and it points users back to the library.
+- **How information is curated.** Every claim wears its badge on a trust ladder it must climb: **AI-aggregated** (drafted by the pipeline) → **Community-affirmed** (endorsed or corrected by people of that culture) → **Elder-verified** (cited to a named knowledge holder, with consent). A step without a why is flagged incomplete, never papered over. Guidance, not enforcement; unverified content is always labeled.
+
+*source private, product public*
 
 ---
 
