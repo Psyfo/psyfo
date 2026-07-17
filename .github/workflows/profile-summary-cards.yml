@@ -1,0 +1,37 @@
+name: Generate profile summary cards
+
+on:
+  # Regenerate daily so the cards stay current.
+  schedule:
+    - cron: "30 0 * * *"
+  # Allow manual runs from the Actions tab.
+  workflow_dispatch:
+  # Run once as soon as this lands on the default branch, so the README images populate.
+  push:
+    branches:
+      - main
+    # The job commits back to main; without this the commit would re-trigger the job.
+    # secrets.GITHUB_TOKEN pushes already skip triggers, but this keeps the guard even
+    # if the token is ever swapped for a PAT.
+    paths-ignore:
+      - "profile-summary-card-output/**"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate the summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          # Bulawayo is UTC+2; keeps the productive-time radar honest.
+          UTC_OFFSET: 2
+          THEME: "tokyonight"
+          AUTO_PUSH: true
